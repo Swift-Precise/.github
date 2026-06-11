@@ -9,13 +9,18 @@ Swift Precise is a technology company focused on delivering web development, cus
 - SaaS Development
 - AI Solutions
 - API Development
-
+- Mobile Development
+- 
 ## Technologies
 
-- React
+- React js
+- Vue js
+- Nuxt js
 - Next.js
 - Node.js
 - Python
+- Laravel
+- mysql
 - PostgreSQL
 
 ## Contact
